@@ -190,8 +190,8 @@ Plann.er é um site que permite aos usuários enviar convites para amigos e fami
 1. **Clone o Repositório**
 
    ```sh
-   git clone https://github.com/seu-usuario/invite-trip.git
-   cd invite-trip
+   git clone https://github.com/rsantiago-lima/plann.er.git
+   cd plann.er
    ```
 
 2. **Instale as Dependências**
