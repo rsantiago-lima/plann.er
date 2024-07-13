@@ -229,7 +229,7 @@ Plann.er é um site que permite aos usuários enviar convites para amigos e fami
      EMAIL_HOST=smtp.seu-servidor-de-email.com
      EMAIL_PORT=587
      EMAIL_USER=seu-email-usuario
-     EMAIL_PASS=sua-senha
+     EMAIL_PASS=**********************************************
      ```
 
 6. **Inicie o Servidor**
